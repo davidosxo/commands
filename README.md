@@ -18,7 +18,7 @@ Information commands:
 > inv - invite to the bot
 > ping - show latency of the bot
 
-> Fun commands:
+Fun commands:
 > kiss - kiss a user
 > hug - hug a user
 > cuddle - cuddle a user
