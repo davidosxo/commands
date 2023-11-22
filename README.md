@@ -12,10 +12,15 @@ Utility commands:
 > lock - lock a channel
 > unlock - unlock a channel
 
-Information Commands:
+Information commands:
 > help - returns the help message
 > avatar | ava | av - show someones avatar
 > inv - invite to the bot
 > ping - show latency of the bot
+
+> Fun commands:
+> kiss - kiss a user
+> hug - hug a user
+> cuddle - cuddle a user
 
 More coming soon...
