@@ -11,6 +11,9 @@ Utility commands:
 > nick - change a nickname of a user
 > lock - lock a channel
 > unlock - unlock a channel
+> enable - enable command(resets after a restart)
+> disable - disable a command(resets after a restart)
+> clear - clear messages
 
 Information commands:
 > help - returns the help message
@@ -22,5 +25,14 @@ Fun commands:
 > kiss - kiss a user
 > hug - hug a user
 > cuddle - cuddle a user
+> poke - poke a user
+> throw - throw a user
+> punch - punch a user
+
+Role commands:
+> role add @user @role
+> role remove @user @role
+> role create <name>
+> role delete @role
 
 More coming soon...
