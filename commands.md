@@ -4,6 +4,8 @@ Moderation commands:
 > ban - ban a user
 > unban - unban a user
 > kick - kick a user
+> mute - mute a user
+> unmute - unmute a user
 
 Utility commands:
 > afk  - away from keyboard
