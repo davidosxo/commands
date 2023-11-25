@@ -22,6 +22,7 @@ Information commands:
 > avatar | ava | av - show someones avatar
 > inv - invite to the bot
 > ping - show latency of the bot
+> credits - get credits
 
 Fun commands:
 > kiss - kiss a user
@@ -30,6 +31,9 @@ Fun commands:
 > poke - poke a user
 > throw - throw a user
 > punch - punch a user
+> uwulock - make someone a catgirl
+> uwuunlock - unlock them
+> coinflip - flip a coin
 
 Role commands:
 > role add @user @role
