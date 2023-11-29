@@ -1,4 +1,4 @@
- Anxienty's Command List:
+ Viles's Command List:
 
 Moderation commands: 
 > ban - ban a user
