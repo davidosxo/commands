@@ -16,6 +16,7 @@ Utility commands:
 > enable - enable command(resets after a restart)
 > disable - disable a command(resets after a restart)
 > clear - clear messages
+> nuke - nuke a channel
 
 Information commands:
 > help - returns the help message
@@ -23,6 +24,7 @@ Information commands:
 > inv - invite to the bot
 > ping - show latency of the bot
 > credits - get credits
+> server - get server info
 
 Fun commands:
 > kiss - kiss a user
@@ -34,11 +36,16 @@ Fun commands:
 > uwulock - make someone a catgirl
 > uwuunlock - unlock them
 > coinflip - flip a coin
+> 8ball | eight_ball | ask - ask a question
 
 Role commands:
 > role add @user @role
 > role remove @user @role
 > role create <name>
 > role delete @role
+> role rename @role <new_name>
 
+Dev commands:
+> test - dropdowns
+> 
 More coming soon...
